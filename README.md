@@ -8,9 +8,6 @@ Soy una persona muy trabajadora, constante y responsable. Tengo una gran facilid
 ###  :computer: Habilidades
 
 <div style="display: flex; justify-content: space-around;">
-    <a href="https://www.linkedin.com/in/noelianav/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-thebadge&logo=angular&logoColor=white" alt="Angular Badge"/>
     <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-thebadge&logo=laravel&logoColor=white" alt="Laravel Badge"/>
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=forthebadge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
