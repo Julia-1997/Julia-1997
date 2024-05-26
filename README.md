@@ -4,7 +4,21 @@ Me llamo Julia, soy graduada en Lengua y Literatura Española y actualmente esto
 
 Soy una persona muy trabajadora, constante y responsable. Tengo una gran facilidad para trabajar en equipo y he participado en numerosos proyectos en el transcurso de mi formación educativa.
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
-
 
 ###  :computer: Habilidades
+
+<div style="display: flex; justify-content: space-around;">
+    <a href="https://www.linkedin.com/in/noelianav/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-thebadge&logo=angular&logoColor=white" alt="Angular Badge"/>
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-thebadge&logo=laravel&logoColor=white" alt="Laravel Badge"/>
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=forthebadge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=forthebadge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge"/>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=forthebadge&logo=openjdk&logoColor=white" alt="Java Badge"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=forthebadge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=forthebadge&logo=php&logoColor=white" alt="PHP Badge"/>
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=forthebadge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=forthebadge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=forthebadge&logo=node.js&logoColor=white" alt="NodeJS Badge"/>
+</div>
