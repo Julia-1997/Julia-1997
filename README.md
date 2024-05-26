@@ -19,3 +19,16 @@ Soy una persona muy trabajadora, constante y responsable. Tengo una gran facilid
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=forthebadge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=forthebadge&logo=node.js&logoColor=white" alt="NodeJS Badge"/>
 </div>
+
+
+### :card_file_box: Proyectos
+
+| Nombre | Descripción del proyecto | Colaboradores | Frameworks/Lenguajes | Estado |
+|--------|--------------------------|---------------|---------------------|--------|
+|[Viver Cellers](https://github.com/AlejandraTech/viver-cellers) | Página web que promociona el viver de cellers del Alt Penedés. | A
+| div style="display: flex; justify-content: space-around;">
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-thebadge&logo=angular&logoColor=white" alt="Angular Badge"/>
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-thebadge&logo=laravel&logoColor=white" alt="Laravel Badge"/>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=forthebadge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge"/>
+</div>| En proceso
+
