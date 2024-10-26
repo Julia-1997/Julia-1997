@@ -1,6 +1,6 @@
 ## ¡Bienvenidos! :wave:
 
-Me llamo Julia, soy graduada en Lengua y Literatura Española y actualmente estoy cursando el grado superior de desarrollo de aplicaciones web. 
+Me llamo Julia, soy graduada en Lengua y Literatura Española y he finalizado el grado superior de desarrollo de aplicaciones web. 
 
 Soy una persona muy trabajadora, constante y responsable. Tengo una gran facilidad para trabajar en equipo y he participado en numerosos proyectos en el transcurso de mi formación educativa.
 
