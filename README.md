@@ -4,8 +4,9 @@ Me llamo Julia, soy graduada en Lengua y Literatura Española y he finalizado el
 
 Soy una persona muy trabajadora, constante y responsable. Tengo una gran facilidad para trabajar en equipo y he participado en numerosos proyectos en el transcurso de mi formación educativa.
 
+<br>
 
-###  :computer: Habilidades
+###  :mortar_board: Habilidades
 
 <div style="display: flex; justify-content: space-around;">
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-thebadge&logo=angular&logoColor=white" alt="Angular Badge"/>
@@ -18,8 +19,24 @@ Soy una persona muy trabajadora, constante y responsable. Tengo una gran facilid
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=forthebadge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=forthebadge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=forthebadge&logo=node.js&logoColor=white" alt="NodeJS Badge"/>
+     <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt="Net Badge"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="Net Badge"/>
 </div>
 
+<br>
+
+###  :computer: Programas
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira Badge"/>
+    <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" alt="Trello Badge"/>
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop Badge"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Photoshop Badge"/>
+            <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA Badge"/>
+            <img src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white" alt="NetBeans Badge"/>
+         <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="Visual Studio Code Badge"/>
+</div>
+
+<br>
 
 ### :card_file_box: Proyectos
 
