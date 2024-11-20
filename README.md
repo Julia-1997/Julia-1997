@@ -1,5 +1,7 @@
 ## ¡Bienvenidos! :wave:
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-prieto1997/)
+
 Me llamo Julia, soy graduada en Lengua y Literatura Española y he finalizado el grado superior de desarrollo de aplicaciones web. 
 
 Soy una persona muy trabajadora, constante y responsable. Tengo una gran facilidad para trabajar en equipo y he participado en numerosos proyectos en el transcurso de mi formación educativa.
@@ -45,3 +47,6 @@ Soy una persona muy trabajadora, constante y responsable. Tengo una gran facilid
 |[Viver Cellers](https://github.com/AlejandraTech/viver-cellers) | Proyecto que promociona el viver de cellers del Alt Penedés. | [AlejandraTech](https://github.com/AlejandraTech)   [Angel Rivera](https://github.com/DarkAng10)|<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-thebadge&logo=angular&logoColor=white" alt="Angular Badge"/> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-thebadge&logo=laravel&logoColor=white" alt="Laravel Badge"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=forthebadge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge"/>| Finalizado
 |[Proyecto UPC](https://github.com/marcsabinadev/monopoly) | Proyecto que promociona el juego Monopoly desarrollado por alumnos de la UPC. | [AlejandraTech](https://github.com/AlejandraTech)   [Angel Rivera](https://github.com/DarkAng10) [Marc Sabina](https://github.com/marcsabinadev)|<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-thebadge&logo=angular&logoColor=white" alt="Angular Badge"/> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-thebadge&logo=laravel&logoColor=white" alt="Laravel Badge"/> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=forthebadge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>| Finalizado
 |[Glosario](https://github.com/Julia-1997/Glosario) | Proyecto que recopila todos los conceptos aprendidos en DAW| -----------------------|<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-thebadge&logo=laravel&logoColor=white" alt="Laravel Badge"/> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=forthebadge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>| En proceso
+
+
+<br>
