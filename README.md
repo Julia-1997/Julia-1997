@@ -1,7 +1,5 @@
 ## ¡Bienvenidos! :wave:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-prieto1997/)
-
 Me llamo Julia, soy graduada en Lengua y Literatura Española y he finalizado el grado superior de desarrollo de aplicaciones web. 
 
 Soy una persona muy trabajadora, constante y responsable. Tengo una gran facilidad para trabajar en equipo y he participado en numerosos proyectos en el transcurso de mi formación educativa.
