@@ -1,8 +1,6 @@
 ## ¡Bienvenidos! :wave:
 
-Me llamo Julia, soy graduada en Lengua y Literatura Española y he finalizado el grado superior de desarrollo de aplicaciones web. 
-
-Soy una persona muy trabajadora, constante y responsable. Tengo una gran facilidad para trabajar en equipo y he participado en numerosos proyectos en el transcurso de mi formación educativa.
+<img src="https://img.freepik.com/premium-vector/girl-with-laptop-vector_951778-16359.jpg" alt="Chica con laptop" width="250"/> Me llamo Julia, soy graduada en Lengua y Literatura Española y he finalizado el grado superior de desarrollo de aplicaciones web. Soy una persona muy trabajadora, constante y responsable. Tengo una gran facilidad para trabajar en equipo y he participado en numerosos proyectos en el transcurso de mi formación educativa.
 
 <br>
 
@@ -48,3 +46,7 @@ Soy una persona muy trabajadora, constante y responsable. Tengo una gran facilid
 
 
 <br>
+
+<a href="https://www.linkedin.com/in/julia-prieto1997/" target="_blank">
+    <img src="https://img.icons8.com/fluent-systems-regular/512/FD7E14/linkedin.png" alt="Linkedin" width="40"/>
+</a>
